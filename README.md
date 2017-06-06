@@ -7,7 +7,7 @@
 <img src="images/banner.png">
 
 <h2> They say a pic is worth a 1000 words. Is it true to admit a .gif is worth a 1000 pics? </h2>
-<kbd><img src="https://github.com/rjsvieira/morphos/blob/master/images/one.gif" width="45%" height="200px">  <img src="https://github.com/rjsvieira/morphos/blob/master/images/two.gif" width="45%" height="200px"> ></kbd>
+<kbd><img src="https://github.com/rjsvieira/morphos/blob/master/images/one.gif" width="49%" height="200px">  <img src="https://github.com/rjsvieira/morphos/blob/master/images/two.gif" width="49%" height="200px"> </kbd>
 
 <h2>Include in your project</h2>
 
